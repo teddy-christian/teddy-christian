@@ -31,7 +31,7 @@ I'm a passionate developer who loves building clean, reliable software. I work m
 
 ## 🔧 Featured Projects
 
-- Galaxy Game — A 3D space runner [Repo](https://github.com/teddy-christian/galaxy-game) | [Live](http://example.com) 
+- Galaxy Game — A 3D space runner [Repo](https://github.com/teddy-christian/galaxy-game) | [Live]((https://galaxies.games/)) 
 
 - Zone App — A task management mobile app [Repo](https://github.com/teddy-christian/zone-app) | Live : Loading...
   
