@@ -31,10 +31,10 @@ I'm a passionate developer who loves building clean, reliable software. I work m
 
 ## 🔧 Featured Projects
 
-- Galaxy Game — A 3D space runner built with Python & Kivy  
-  https://github.com/teddy-christian/galaxy-game
-- Zone App — A task management mobile app (Expo + React Native)  
-  https://github.com/teddy-christian/zone-app
+- Galaxy Game — A 3D space runner [Repo](https://github.com/teddy-christian/galaxy-game) | [Live](http://example.com) 
+
+- Zone App — A task management mobile app [Repo](https://github.com/teddy-christian/zone-app) | Live : Loading...
+  
 
 ---
 
