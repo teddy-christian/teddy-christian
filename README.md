@@ -4,7 +4,7 @@
 
 ## 👋 Hi there! I'm Teddy Christian
 
-I'm a passionate developer who loves building clean, reliable software. I work mainly with PHP, Python, React/React Native, with growing focus on Cybersecurity.
+I'm a passionate developer who loves building software and web application. I work mainly with PHP, Python, React/React Native, with growing focus on Cybersecurity.
 
 - 🔭 Currently working on: loading...
 - 🌱 Learning: loading...
@@ -17,7 +17,7 @@ I'm a passionate developer who loves building clean, reliable software. I work m
 - Languages: Python, JavaScript/TypeScript, PHP, SQL
 - Frontend: Vue.js, React, React Native, Expo, HTML, Tailwind CSS
 - Backend: Node.js, Express, PHP, Flask
-- DevOps: Docker (learning), Kubernetes (learning), GitHub Actions, CI/CD
+- DevOps: Docker, Kubernetes (learning), GitHub Actions, CI/CD
 - Databases: PostgreSQL, MySQL, SQLite, MongoDB
 
 ---
