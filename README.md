@@ -4,7 +4,7 @@
 
 ## 👋 Hi there! I'm Teddy Christian
 
-I'm a passionate developer who loves building software and web application. I work mainly with PHP, Python, React/React Native, with growing focus on Cybersecurity.
+I'm a passionate developer who loves building software and web application. I work mainly with PHP, Python, React/React Native, with growing focus on Cybersecurity ande the Cloud.
 
 - 🔭 Currently working on: loading...
 - 🌱 Learning: loading...
