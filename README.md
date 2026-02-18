@@ -24,8 +24,8 @@ I'm a passionate developer who loves building software and web application. I wo
 
 ## 📊 GitHub stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddy-christian&layout=compact&theme=radical)
-![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddy-christian&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teddy-christian&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teddy-christian&show_icons=true&theme=radical)
 
 ---
 
