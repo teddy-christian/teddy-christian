@@ -31,7 +31,9 @@ I'm a passionate developer who loves building software and web application. I wo
 
 ## 🔧 Featured Projects
 
-- Galaxy Game — A 3D space runner [Repo](https://github.com/teddy-christian/galaxy-game) | [Live](https://galaxies.games/) 
+- Galaxy Game — A 3D space runner [Repo](https://github.com/teddy-christian/galaxy-game) | [Live](https://galaxies.games/)
+
+- Beat Maker — A desktop drum machine / beat sequencer [Repo](https://github.com/teddy-christian/beat-maker)
 
 - Zone App v1 — A task management mobile app [Repo](https://github.com/teddy-christian/zone-app)
   
